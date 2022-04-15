@@ -1,1 +1,1 @@
-# Super-Store
+# Super Store
